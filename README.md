@@ -5,24 +5,12 @@
 ---
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 130 Contributions in the Year 2020
- > 
-> 📦 6.0 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 12 Public Repositories
- > 
-> 🔑 1 Private Repository 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    30 commits     ██████░░░░░░░░░░░░░░░░░░░   24.0% 
-🌆 Daytime    40 commits     ████████░░░░░░░░░░░░░░░░░   32.0% 
-🌃 Evening    55 commits     ███████████░░░░░░░░░░░░░░   44.0% 
+🌞 Morning    32 commits     ██████░░░░░░░░░░░░░░░░░░░   25.2% 
+🌆 Daytime    40 commits     ████████░░░░░░░░░░░░░░░░░   31.5% 
+🌃 Evening    55 commits     ██████████░░░░░░░░░░░░░░░   43.31% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -40,10 +28,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 ```
-
-**Timeline**
-
-![Chart not found](https://github.com/MaximianoEduardo/MaximianoEduardo/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
