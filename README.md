@@ -22,15 +22,15 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
 
- Last Updated on 22/06/2021
+ Last Updated on 23/06/2021
 <!--END_SECTION:waka-->
 
 ### Entre em contato
