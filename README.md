@@ -22,15 +22,18 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 58 mins        █████████████████░░░░░░░░   71.22% 
+SCSS                     45 mins             ██████░░░░░░░░░░░░░░░░░░░   27.24% 
+Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46% 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 46 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 20/07/2021
+ Last Updated on 21/07/2021
 <!--END_SECTION:waka-->
 
 ### Entre em contato
