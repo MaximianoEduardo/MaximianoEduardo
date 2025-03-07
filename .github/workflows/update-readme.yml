@@ -21,3 +21,5 @@ jobs:
           SHOW_UPDATED_DATE: true
           SHOW_COMMIT: true
           SHOW_PROFILE_VIEWS: false
+          SHOW_LOC_CHART: false
+          SHOW_SHORT_INFO: false
