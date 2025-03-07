@@ -19,4 +19,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: true
           SHOW_PROJECTS: false
           SHOW_UPDATED_DATE: true
-          
+          SHOW_COMMIT: false
