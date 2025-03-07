@@ -16,7 +16,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_BY_ME: true
           COMMIT_EMAIL: edu.maxi.96@gmail.com
-          SHOW_TOTAL_CODE_TIME: true
+          SHOW_TOTAL_CODE_TIME: false
           SHOW_PROJECTS: false
           SHOW_UPDATED_DATE: true
-          SHOW_COMMIT: false
+          SHOW_COMMIT: true
+          SHOW_PROFILE_VIEWS: false
