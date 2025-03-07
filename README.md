@@ -6,6 +6,16 @@
 
 <!--START_SECTION:waka-->
 
+```rust
+From: 02 September 2020 - To: 07 March 2025
+
+Total Time: 3,534 hrs 42 mins
+
+JavaScript                 1,027 hrs       >>>>>>-------------------   24.77 %
+TypeScript                 830 hrs 54 mins >>>>>--------------------   20.04 %
+Other                      611 hrs 9 mins  >>>>---------------------   14.74 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Entre em contato
