@@ -68,6 +68,3 @@ CSS                      1 repo              ██░░░░░░░░░�
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo_Maximiano-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximiano-eduardo)](https://www.linkedin.com/in/maximiano-eduardo)
 
 ---
-
-### 🎧 Escutando
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=comgigo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=comgigo&redirect=true)
